@@ -1,6 +1,5 @@
 spring:
- profiles: dev
- application:
-  name: microservicecloud-config-dev
+ profiles: 
+  active: dev
 server:
  port: 8557
