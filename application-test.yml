@@ -1,5 +1,5 @@
 spring:
  application:
   name: microservicecloud-config-test
-		
-
+server:
+ port: 3333
