@@ -3,5 +3,3 @@ spring:
    name: microservicecloud-config-prod
 server:
  port: 9562
-		
-
