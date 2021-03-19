@@ -4,4 +4,4 @@ spring:
 server:
  port: 9562
 project:
- version: dev-version
+ version: dev-version-123456
